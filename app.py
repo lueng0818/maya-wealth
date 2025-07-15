@@ -93,7 +93,7 @@ st.markdown(
 st.markdown(
     """
     <div class="footer">
-      © 2025 Maya 能量解碼 • 版權所有  
+      © 2025 Tilandky日常覺察 • 版權所有  
       <a href="https://www.facebook.com/soulclean1413/" target="_blank">粉專</a> |
       <a href="https://www.instagram.com/tilandky/" target="_blank">IG</a> |
       <a href="https://line.me/R/ti/p/%40690ZLAGN" target="_blank">Line 社群</a>
