@@ -65,20 +65,20 @@ if df_w.empty:
 else:
     row = df_w.iloc[0]
     st.subheader("你的金錢態度")
-    st.write(row["我的金錢觀"])
     st.caption("←說明你怎麼看錢…")
+    st.write(row["我的金錢觀"])
 
     st.subheader("金錢盲點")
-    st.write(row["金錢盲點"])
     st.caption("←用錢時容易犯的錯…")
+    st.write(row["金錢盲點"])
 
     st.subheader("創造豐盛的方法")
-    st.write(row["創造豐盛的方法"])
     st.caption("←幫助累積財富的小事…")
+    st.write(row["創造豐盛的方法"])
 
     st.subheader("如何達到財富自由")
-    st.write(row["如何達到財富自由"])
     st.caption("←心態＋行動結合…")
+    st.write(row["如何達到財富自由"])
 
     st.markdown("---")
     st.info("了解自己金錢能量，才不會重複踩雷。調整心態＋實踐方法，累積你的財富自由之路。")
